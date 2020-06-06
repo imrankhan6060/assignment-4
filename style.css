@@ -1,0 +1,118 @@
+ 
+/* .navbar-brand{
+    columns: #000000 !important;
+    font-size: 30px !important;
+    font-weight: bold;
+
+    
+} */
+.logo{
+    height: 40px;
+    width: 80px;
+    color: #ffffff;
+}
+.logoheading{
+    color: #ffffff;
+    font-size: 25px;
+    
+    margin-right: 20px;
+}
+
+.navbar-text{
+    
+    color: #ffffff;
+}
+
+.navbar-brand{
+    color: #ffffff !important;
+    font-size: 20px !important;
+    
+}
+
+
+.navbar{
+    background-color:#424242
+    !important;
+    padding: -20px !important;
+ 
+}
+.nav-link{
+    color: #ffffff !important;
+    font-weight: bold !important;
+    margin-left: 40px !important;
+   
+   
+}
+.fa{
+    color: #ffffff !important;
+    font-size: 25px !important;
+
+}
+.mainheading{
+    background-color: #424242
+    ack;
+   
+}
+.heading{
+    padding: 5px;
+    text-align: center !important;
+    color:#ffffff !important;
+   font-weight: bold;
+}
+.card{
+    margin:20px ;
+    width: 200 !important;
+   
+}
+.upfooter{
+    padding: 10px;
+    color: #ffffff;
+    background-color: #424242;
+    height: 170px;
+}
+.footer{
+    
+    background-color: #424242;
+    padding: 20px;
+}
+.copy{
+    color: white;
+    text-align: center;
+}
+.about{
+    
+    text-align: center !important;
+}
+.first{
+    margin-top: 20px;
+    text-align: center;
+}
+.second{
+    text-align: center;
+
+   margin-left: 40px;
+   margin-right: 40px;
+}
+.aboutpage{
+    background-color: #f2fde4 !important;
+    height: 400px;
+}
+.brandtext{
+    text-align: justify;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.headingbrand{
+    margin-left: 40px;
+}
+.brandconcept{
+    height: 150px;
+    background-color:#f2fde4;
+}
+.contact{
+    margin-top: 45px;
+}
+.btn{
+   background-color: #424242 !important;
+}
